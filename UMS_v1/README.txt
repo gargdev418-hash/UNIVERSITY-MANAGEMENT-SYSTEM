@@ -1,0 +1,1 @@
+UMS v1 project skeleton with JavaFX structure.
